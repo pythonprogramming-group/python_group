@@ -1,0 +1,8 @@
+* [Group on Facebook](https://www.facebook.com/groups/python.programmers/)
+* [Group Guidelines](https://github.com/pythonprogramming-group/python_group/wiki/Group-Guidelines)
+* [Getting Started with Python](https://github.com/pythonprogramming-group/python_group/wiki/Learn-to-Program-with-Python)  
+* [FAQ](https://github.com/pythonprogramming-group/python_group/wiki/FAQ)
+* [Recommended Resources](https://github.com/pythonprogramming-group/python_group/wiki/Recommended-Resources)
+* [Intermediate Topics](https://github.com/pythonprogramming-group/python_group/wiki/Intermediate-Topics)
+* [Coding - Projects Ideas & Practise ](https://github.com/pythonprogramming-group/python_group/wiki/Coding-Projects-Practise)  
+* [Learning Django ](https://github.com/pythonprogramming-group/python_group/wiki/Learning-Django)
