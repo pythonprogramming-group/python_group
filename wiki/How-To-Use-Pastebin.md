@@ -1,11 +1,11 @@
 ## Indentation == Code in Python, Facebook removes indentation. 
 
-**Pastebin** this is free online service to share your code. There are many to choose from =>[dpaste](http://dpaste.de/), [bpaste](https://bpaste.net/+python), [github gist](https://gist.github.com/)....
+**Pastebin** this is free online service to share your code. There are many to choose from =>[dpaste](http://dpaste.org/), [bpaste](https://bpaste.net/+python), [github gist](https://gist.github.com/)....
 
-## Steps to use [dpaste](http://dpaste.de/), other websites are similar
+## Steps to use [dpaste](http://dpaste.org/), other websites are similar
 1) Copy your code to the clipboard  
 
-2) Go to http://dpaste.de/  
+2) Go to http://dpaste.org/  
 
 3) Paste your code into the text area;  
 

@@ -10,6 +10,8 @@
 
 * [Python's Class Development Toolkit - Core Python Developer Richard Hettinger](https://www.youtube.com/watch?v=HTLu2DFOdTg)
 
+* [PyBites' How to Write a Python Class](https://pybit.es/python-classes.html)
+
 * Corey Schafer, self.learnpython six part video series on object-oriented programming in Python. *Highly Recommended*
   1) [Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
   2) [Class Variables](https://www.youtube.com/watch?v=BJ-VvGyQxho)

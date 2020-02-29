@@ -2,7 +2,7 @@ Welcome to our group. Regardless if you are brand new to programming or more exp
 
 ### TL;DR on getting help....  
 1.  **DO NOT** post unformatted code, pictures of code. Your post will be blocked until you fix it. Fix it == edit your post.  
-1.  Use https://dpaste.de for your code, copy + paste, then post the link generated into your post.  
+1.  Use https://www.ppaste.org, https://dpaste.org or similar for your code, copy + paste, then post the link generated into your post.  
 1.  Explain the problem, include the exact error message(if an error is raised).  
 1.  If you are having a trouble understanding how to get started with a problem, do what all programmers do, **Divide and conquer**. Write out the requirements of the problem, then solve each one.  
 1.  Google first, ask second  
@@ -27,7 +27,7 @@ Welcome to our group. Regardless if you are brand new to programming or more exp
 
      **Options for sharing your code in a post:**      
          1). [repl.it](https://repl.it/languages/python3) Repl allows you to run, save code, and share code;  
-         2). Use a code pastebin service/website like, http://dpaste.de/ , https://gist.github.com/, etc. Not knowing how to use a paste bin service, is no excuse. Usage is basic, copy + paste, like the name implies. Detailed steps are linked here => [How to Use a Pastebin](https://github.com/pythonprogramming-group/python_group/wiki/How-To-Use-Pastebin); or  
+         2). Use a code pastebin service/website like, https://www.ppaste.org, https://dpaste.org, https://gist.github.com/, etc. Not knowing how to use a paste bin service, is no excuse. Usage is basic, copy + paste, like the name implies. Detailed steps are linked here => [How to Use a Pastebin](https://github.com/pythonprogramming-group/python_group/wiki/How-To-Use-Pastebin); or  
          3). Link to your **github**, or **bitbucket** repo  
            **Notes:**  
            * **Do not upload files**, posts with attachments will be removed without warning; and    
