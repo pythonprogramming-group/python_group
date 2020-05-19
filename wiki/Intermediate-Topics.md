@@ -40,7 +40,7 @@
 
 * [Primer on Python Decorators - Real Python](https://realpython.com/primer-on-python-decorators/)
 
-* [Python Decorators: A Step-By-Step Introduction - Dan Bader](https://dbader.org/blog/python-decoratorsL)
+* [Python Decorators: A Step-By-Step Introduction - Dan Bader](https://dbader.org/blog/python-decorators)
 
 * [Understanding Python Decorators in 12 Easy Steps! - Simeon Franklin](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 
